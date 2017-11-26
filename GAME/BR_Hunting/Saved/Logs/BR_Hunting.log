@@ -348,3 +348,73 @@ LogInit: Object subsystem initialized
 [2017.11.26-22.15.21:887][  1]LogAssetRegistry: Asset discovery search completed in 15.5818 seconds
 [2017.11.26-22.15.21:889][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2017.11.26-22.15.21:889][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
+[2017.11.26-22.15.54:336][222]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2017.11.26-22.15.54:534][222]LogSlate: Took 0.006093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.26-22.15.58:553][443]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.26-22.15.58:621][443]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.11.26-22.15.58:956][443]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.11.26-22.15.59:047][443]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.11.26-22.15.59:401][443]LogSlate: Took 0.006533 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.26-22.15.59:464][443]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2017.11.26-22.16.46:323][830]LogSavePackage: Save=234.84ms
+[2017.11.26-22.16.46:323][830]LogSavePackage: Moving 'E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Saved/ThirdPersonExampleMap4883CD7143E42710FE49AE8A3E386E6E.tmp' to 'E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.26-22.16.46:342][830]LogSavePackage: Display: Finished SavePackage E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.26-22.16.46:620][830]LogSavePackage: Save=224.88ms
+[2017.11.26-22.16.46:620][830]LogSavePackage: Moving 'E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Saved/ThirdPersonExampleMap_BuiltData0032C815419D7DC63DBF8EB8B369DA52.tmp' to 'E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.11.26-22.16.46:621][830]LogSavePackage: Display: Finished SavePackage E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.11.26-22.16.56:726][245]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.26-22.16.56:742][245]LightingResults: New page: Lighting Build
+[2017.11.26-22.16.56:744][245]LoadErrors: New page: Loading map: Template_Default.umap
+[2017.11.26-22.16.56:775][245]MapCheck: New page: Map Check
+[2017.11.26-22.16.56:775][245]LightingResults: New page: Lighting Build
+[2017.11.26-22.16.56:868][245]LogAIModule: Creating AISystem for world Untitled_1
+[2017.11.26-22.16.56:876][245]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.26-22.16.56:908][245]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.26-22.16.56:971][245]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.71ms to complete.
+[2017.11.26-22.16.56:971][245]LogFileHelpers: Loading map 'Template_Default' took 0.246
+[2017.11.26-22.16.59:015][361]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.26-22.17.23:022][361]LogSavePackage: Save=39.79ms
+[2017.11.26-22.17.23:022][361]LogSavePackage: Moving 'E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Saved/Level_Prototype000D650148BFBEB1968A619B8505633B.tmp' to 'E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Content/Levels/Level_Prototype.umap'
+[2017.11.26-22.17.23:023][361]LogSavePackage: Display: Finished SavePackage E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Content/Levels/Level_Prototype.umap
+[2017.11.26-22.17.23:051][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_Prototype_BuiltData" FILE="E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Content/Levels/Level_Prototype_BuiltData.uasset" SILENT=true
+[2017.11.26-22.17.23:068][361]LogSavePackage: Save=15.24ms
+[2017.11.26-22.17.23:068][361]LogSavePackage: Moving 'E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Saved/Level_Prototype_BuiltData495191E7491D0932CA7DD4AB7EE060F9.tmp' to 'E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Content/Levels/Level_Prototype_BuiltData.uasset'
+[2017.11.26-22.17.23:069][361]LogSavePackage: Display: Finished SavePackage E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Content/Levels/Level_Prototype_BuiltData.uasset
+[2017.11.26-22.17.23:076][361]LogFileHelpers: Saving map 'Level_Prototype' took 0.193
+[2017.11.26-22.17.24:955][467]LogSavePackage: Save=38.68ms
+[2017.11.26-22.17.24:955][467]LogSavePackage: Moving 'E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Saved/Level_Prototype9CC69DA541612B08CAF81F9943DF9C8C.tmp' to 'E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Content/Levels/Level_Prototype.umap'
+[2017.11.26-22.17.24:955][467]LogSavePackage: Display: Finished SavePackage E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Content/Levels/Level_Prototype.umap
+[2017.11.26-22.17.24:966][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_Prototype_BuiltData" FILE="E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Content/Levels/Level_Prototype_BuiltData.uasset" SILENT=true
+[2017.11.26-22.17.24:986][467]LogSavePackage: Save=13.55ms
+[2017.11.26-22.17.24:986][467]LogSavePackage: Moving 'E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Saved/Level_Prototype_BuiltData857440A64B02C9B6642EC08BD1434A84.tmp' to 'E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Content/Levels/Level_Prototype_BuiltData.uasset'
+[2017.11.26-22.17.24:987][467]LogSavePackage: Display: Finished SavePackage E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Content/Levels/Level_Prototype_BuiltData.uasset
+[2017.11.26-22.17.27:583][615]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.26-22.17.27:609][615]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.26-22.17.27:616][615]PIE: New page: PIE session: Level_Prototype (Nov 26, 2017, 12:17:27 PM)
+[2017.11.26-22.17.27:616][615]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_Prototype
+[2017.11.26-22.17.27:622][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006059s)
+[2017.11.26-22.17.27:623][615]LogAIModule: Creating AISystem for world Level_Prototype
+[2017.11.26-22.17.27:624][615]LogPlayLevel: PIE: World Init took: (0.001671s)
+[2017.11.26-22.17.27:625][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_Prototype.Level_Prototype to /Game/Levels/UEDPIE_0_Level_Prototype.Level_Prototype (0.008601s)
+[2017.11.26-22.17.27:645][615]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.11.26-22.17.27:699][615]LogInit: FAudioDevice initialized.
+[2017.11.26-22.17.27:747][615]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.26-22.17.27:748][615]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_Prototype.Level_Prototype up for play (max tick rate 60) at 2017.11.26-17.17.27
+[2017.11.26-22.17.27:749][615]LogWorld: Bringing up level for play took: 0.001436
+[2017.11.26-22.17.27:824][615]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2017.11.26-22.17.27:832][615]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Level_Prototype -0.05
+[2017.11.26-22.17.36:763][ 62]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.11.26-22.17.36:927][ 67]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BRHunting
+[2017.11.26-22.17.36:928][ 67]LogTemp: CWD: C:\Program Files\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.11.26-22.17.36:928][ 67]LogTemp: Initial Dir: C:\Program Files\UE_4.18
+[2017.11.26-22.17.36:928][ 67]LogTemp: Env CWD: C:\Program Files\UE_4.18\Engine\Binaries\DotNET\IOS
+[2017.11.26-22.17.36:928][ 67]LogTemp: BranchPath = DESKTOP-0SPOBAU/C/Program Files/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-0SPOBAU/C/Program Files/UE_4.18/Engine/Binaries
+[2017.11.26-22.17.36:959][ 69]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\atayl\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.11.26-22.17.41:339][325]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.26-22.17.48:575][745]LogSavePackage: Save=31.77ms
+[2017.11.26-22.17.48:576][745]LogSavePackage: Moving 'E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Saved/Level_PrototypeE15955B044EE1EE2C34B12A5F38F516A.tmp' to 'E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Content/Levels/Level_Prototype.umap'
+[2017.11.26-22.17.48:576][745]LogSavePackage: Display: Finished SavePackage E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Content/Levels/Level_Prototype.umap
+[2017.11.26-22.17.48:596][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_Prototype_BuiltData" FILE="E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Content/Levels/Level_Prototype_BuiltData.uasset" SILENT=true
+[2017.11.26-22.17.48:612][745]LogSavePackage: Save=14.43ms
+[2017.11.26-22.17.48:612][745]LogSavePackage: Moving 'E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Saved/Level_Prototype_BuiltData70C97A0946CB5DC9E35289A47057D729.tmp' to 'E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Content/Levels/Level_Prototype_BuiltData.uasset'
+[2017.11.26-22.17.48:613][745]LogSavePackage: Display: Finished SavePackage E:/WORKSPACE/KERMODE/Kermode-Games/Kermode/Kermode/GAME/BR_Hunting/Content/Levels/Level_Prototype_BuiltData.uasset
